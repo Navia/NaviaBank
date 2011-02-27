@@ -1,0 +1,10 @@
+name: NaviaBank
+main: com.landsofnavia.mcandze.naviabank.NaviaBank
+version: 0.1.2
+commands:
+  bank:
+    description: Bank.
+    usage: /<command>
+  return:
+    description: Back.
+    usage: /<command>
